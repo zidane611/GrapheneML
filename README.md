@@ -1,7 +1,7 @@
 # GrapheneML
 Accelerated Discoveries of Mechanical Properties of Graphene Using Machine Learning and High-Throughput Computation
 
-This repo contains the training dataset and trained model for the work above. 
+This repo contains the training dataset and a trained KNN model for the work above. 
 - raw_data.csv
 -- 1440 data points including 4 features and 3 targets
 - normalized_data.csv
