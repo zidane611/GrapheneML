@@ -24,3 +24,13 @@ regr = load('graphene.regressor')
 prediction = regr.predict(norm_feature)
 ```
 The predicted fracture strain, fracture strength and Young's modulus are 0.16, 97.1 GPa and 965.3 GPa, respectively. The MD simulation results are 0.155, 96.2 GPa and 962.9 GPa, respectively.
+  
+Library versions
+```python
+print(joblib.__version__)
+0.11
+print(sklearn.__version__)
+0.19.1
+print(numpy.__version__)
+1.14.0
+```
